@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+require "lib/buttons"
 
 Gem::Specification.new do |gem|
   gem.name          = "buttons"
