@@ -1,9 +1,8 @@
 # -*- encoding: utf-8 -*-
-require './lib/compass-poliedro'
 
 Gem::Specification.new do |gem|
   gem.name          = "buttons"
-  gem.version       = Compass::Poliedro::VERSION
+  gem.version       = "1.0"
   gem.authors       = ["alexwolfe"]
   gem.description   = "A fully customizable CSS button library built using Sass & Compass"
   gem.summary       = "A fully customizable CSS button library built using Sass & Compass"
