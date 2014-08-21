@@ -2,13 +2,13 @@
 
 Gem::Specification.new do |gem|
   gem.name          = "buttons"
-  gem.version       = "1.0"
+  gem.version       = Compass::Buttons::VERSION
   gem.authors       = ["alexwolfe"]
   gem.description   = "A fully customizable CSS button library built using Sass & Compass"
   gem.summary       = "A fully customizable CSS button library built using Sass & Compass"
   gem.homepage      = ""
 
-  # gem.require_paths = ["lib"]
+  gem.require_paths = ["lib"]
 
     # Gems Dependencies
   # Gem names and versions that are required for your Compass extension.
